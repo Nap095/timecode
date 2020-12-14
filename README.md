@@ -1,5 +1,5 @@
 # timecode
-Excel macro pour computing Timecode
+Excel macro for computing Timecode
 ' Module TimeCode
 ' DLEP - 202012
 ' Version 1.0 du 13/12/2020
