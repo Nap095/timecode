@@ -6,22 +6,22 @@ Excel macro pour computing Timecode
 
 Function FromTimeCode(nbimg As Variant, tc As Variant)
 
-nbimg = nbimg by sec
+* nbimg = nbimg by sec
 
-tc = timecode as hh:mm:ss:ii
+* tc = timecode as hh:mm:ss:ii
 
 
 Function ToTimeCode(nbimg As Variant, img As Variant) As Variant
 
-nbimg = nbimg by sec
+* nbimg = nbimg by sec
 
-img = number of images
+* img = number of images
 
 
 Function TCDuree(nbimg As Variant, deb As Variant, fin As Variant)
 
-nbimg = nbimg by sec
+* nbimg = nbimg by sec
 
-deb = timecode begin as hh:mm:ss:ii
+* deb = timecode begin as hh:mm:ss:ii
 
-fin = timecode end as hh:mm:ss:ii
+* fin = timecode end as hh:mm:ss:ii
