@@ -25,3 +25,6 @@ Function TCDuree(nbimg As Variant, deb As Variant, fin As Variant)
 * deb = timecode begin as hh:mm:ss:ii
 
 * fin = timecode end as hh:mm:ss:ii
+
+' Version 1.10 du 05/08/2021
+Table restructuration
